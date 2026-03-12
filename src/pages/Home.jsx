@@ -9,9 +9,9 @@ export default function Home() {
       <FloatingElements />
       <div className="relative z-10 flex flex-col items-center justify-center min-h-screen px-4 py-8">
         <HeroSection />
-        <VideoFrame videoUrl="https://drive.google.com/file/d/SEU_FILE_ID_AQUI/view" />
+        <VideoFrame />
         <p className="mt-8 text-sm text-pink-300 tracking-widest uppercase font-medium">
-          Março 2026 · Lisa Krasnievicz Girardi
+          Maio 2026 · Lisa Krasnievicz Girardi
         </p>
       </div>
     </div>
